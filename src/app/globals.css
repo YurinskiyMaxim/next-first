@@ -1,0 +1,7 @@
+@import "tailwindcss";
+@import 'normalize.css';
+
+
+body {
+  background-color: #0A1117;
+}
